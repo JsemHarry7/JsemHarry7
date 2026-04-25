@@ -1,5 +1,69 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+  # Harry Deimling
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  The official version: 18, finishing high school in Liberec, off to ČVUT FEL — Kybernetika a robotika — this fall.
+
+  The unofficial version: I build embedded things in my spare time and care more about understanding them than shipping them fast.
+
+  [harrydeiml.ing](https://harrydeiml.ing) · [kontakt@harrydeiml.ing](mailto:kontakt@harrydeiml.ing)
+
+  ## What I'm building
+
+  **[D-TRC-1](https://harrydeiml.ing/work/d-trc-1)** — a modified Tamiya TT-02 with custom electronics, firmware, and a dashboard. Two PCBs around an
+  ESP32-S3, FreeRTOS across two cores, telemetry over Web Bluetooth. Most of the project is the parts that didn't work the first time.
+
+  **[TM-01](https://harrydeiml.ing/work/tm-01)** — a box that pays attention to what happens to it during transport. Architecture is right,
+  implementation needs another pass. Currently paused.
+
+  ## Stack
+
+  ```
+  Firmware    C++ · ESP-IDF · PlatformIO · FreeRTOS · BLE
+  Hardware    KiCad · JLCPCB · soldering · prototyping
+  CAD         Fusion 360 · 3D print · light CNC
+  Web         React · TypeScript · Web Bluetooth API · Git
+  Other       Python · .NET / C#
+  ```
+
+  ## How I work
+
+  Thoroughly. The longer way usually teaches more.
+
+  ## Reach
+
+  [`kontakt@harrydeiml.ing`](mailto:kontakt@harrydeiml.ing)
+
+  ---
+
+  # Česky
+
+  Oficiální verze: 18, dokončuju průmyslovku v Liberci, od podzimu nastupuju na ČVUT FEL — Kybernetika a robotika.
+
+  Neoficiální verze: ve volném čase stavím embedded věci a jde mi víc o to jim rozumět než je rychle dodělat.
+
+  [harrydeiml.ing](https://harrydeiml.ing) · [kontakt@harrydeiml.ing](mailto:kontakt@harrydeiml.ing)
+
+  ## Na čem dělám
+
+  **[D-TRC-1](https://harrydeiml.ing/work/d-trc-1)** — upravený Tamiya TT-02 s vlastní elektronikou, firmwarem a dashboardem. Dvě desky kolem ESP32-S3,
+   FreeRTOS na dvou jádrech, telemetrie přes Web Bluetooth. Větší část projektu jsou věci, co napoprvé nefungovaly.
+
+  **[TM-01](https://harrydeiml.ing/work/tm-01)** — krabice, která sleduje, co se s ní děje během přepravy. Architektura sedí, provedení potřebuje další
+   iteraci. Aktuálně pozastaveno.
+
+  ## Stack
+
+  ```
+  Firmware    C++ · ESP-IDF · PlatformIO · FreeRTOS · BLE
+  Hardware    KiCad · JLCPCB · pájení · prototyping
+  CAD         Fusion 360 · 3D tisk · CNC základy
+  Web         React · TypeScript · Web Bluetooth API · Git
+  Ostatní     Python · .NET / C#
+  ```
+
+  ## Jak pracuju
+
+  Důkladně. Delší cesta většinou naučí víc.
+
+  ## Kontakt
+
+  [`kontakt@harrydeiml.ing`](mailto:kontakt@harrydeiml.ing)
